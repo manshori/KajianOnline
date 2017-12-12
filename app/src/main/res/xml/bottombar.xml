@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Tab>
+<tab
+    activeColor="@color/colorPrimary"
+    icon="@drawable/ic_live_tv_black_24dp"
+    id="@+id/live"
+    title="live"
+    titleSize="@dimen/_6sdp"/>
+<tab
+    activeColor="@color/colorPrimary"
+    icon="@drawable/ic_video_library_black_24dp"
+    id="@+id/video"
+    title="video"
+    titleSize="@dimen/_6sdp"/>
+<tab
+    activeColor="@color/colorPrimary"
+    icon="@drawable/ic_fiber_new_black_24dp"
+    id="@+id/news"
+    title="news"
+    titleSize="@dimen/_6sdp"/>
+<tab
+    activeColor="@color/colorPrimary"
+    icon="@drawable/ic_dashboard_black_24dp"
+    id="@+id/iklan"
+    title="iklan"
+    titleSize="@dimen/_6sdp"/>
+</Tab>
